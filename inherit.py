@@ -55,7 +55,3 @@ class SchedulerFruits(Scheduler):
 print(10*'=', "SchedulerFruits")
 sn = SchedulerFruits()
 sn.loop()
-
-
-            
-            

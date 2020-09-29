@@ -29,4 +29,3 @@ print(sys.argv[1])
 # on utilise plutôt le module argparse (cherchez dans la doc)
 #
 # mais pour cet exercice la première méthode suffit bien
-
