@@ -17,7 +17,7 @@ kernelspec:
     <span>Benoît Gschwind</span>
 </div>
 <div style="display:grid">
-    <span><img src="ensmp-25-alpha.png" /></span>
+    <span><img src="media/ensmp-25-alpha.png" /></span>
 </div>
 </div>
 
